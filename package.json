@@ -1,0 +1,13 @@
+{
+  "name": "codeanalyzr",
+  "version": "0.0.1",
+  "description": "A static code analysis tool",
+  "author": "Michael Kolb <dev@db1smk.com>",
+
+  "dependencies": {
+    "java-parser": "0.0.2",
+    "express":"",
+    "node-rules":"",
+    "jsonpath":""
+  }
+}
